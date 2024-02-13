@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tcs-fcm-angular": {
+      "hosting": {
+        "tcs-fmc-angular": [
+          "tcs-fcm-angular"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tcs-fcm-angular"
+  }
+}
